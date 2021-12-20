@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const api = axios.create({
-  baseURL: 'https://atividade3.edivaldojunior1.repl.co/'
+  baseURL: 'https://@luizpicoli.repl.co/'
 })
 
 export default api
