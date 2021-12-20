@@ -1,0 +1,10 @@
+.details-container {
+	max-width: 60rem;
+	padding: 5rem;
+}
+
+.text {
+	max-width: 60rem;
+	margin: 10rem auto;
+	padding: 0 5rem;
+}
